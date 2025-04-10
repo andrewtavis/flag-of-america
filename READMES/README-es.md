@@ -1,8 +1,7 @@
 # [Flag of America](https://github.com/andrewtavis/blob/main/READMES/README-es.md)
 
-> [!NOTE]
-> This readme file is in need of localization. Pull requests are welcome!
-> Please use articles from the Wikipedia for the given language if possible, or English Wikipedia if the page isn't available.
+> [!IMPORTANT]
+> This readme file is in need of localization. Pull requests are welcome! Please use articles from the Wikipedia for the given language if possible, or English Wikipedia if the page isn't available.
 
 [![license](https://img.shields.io/github/license/andrewtavis/flag-of-america.svg?label=%20)](../LICENSE.txt)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](../.github/CODE_OF_CONDUCT.md)
