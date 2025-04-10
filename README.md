@@ -70,7 +70,7 @@ Twenty gold stars are set in a circle conveying American unity, harmony and soli
 <a href=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="379" alt="Pan-Americanism emblem from 1909"></a>
 </div>
 
-> Pan-Americanism emblem from 1909 ([source](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>)).
+> Pan-Americanism emblem from 1909 ([source](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>))
 
 <a id="colors-"></a>
 
