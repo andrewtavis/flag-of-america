@@ -28,7 +28,7 @@
 The **Flag of America** is a symbolic representation of America. Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
 > [!NOTE]
-> Downloadable image files for the [flag](./images/flag/), [stars symbol](/images/symbol/) and [design specification](/images/design_specification/) can be found in the [images](./images/) directory.
+> Downloadable files for the [flag](./images/flag/), [stars symbol](/images/symbol/) and [design specification](/images/design_specification/) can be found in the [images](./images/) directory.
 
 <a id="contents"></a>
 
@@ -64,7 +64,7 @@ The following describes the design process including the meaning behind the symb
 
 ### Symbols [`⇧`](#contents)
 
-Twenty gold stars are set in a circle conveying American unity, harmony and solidarity. The number of stars was chosen because of the [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas) including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples). Within the stars is a circle representing [Pan-Americanism](https://en.wikipedia.org/wiki/Pan-Americanism) as it signifies the outer boarder the emblems used by the movement (see below).
+Twenty gold stars are set in a circle conveying American unity, harmony and solidarity. The number of stars was chosen because of the [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas) including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples). Within the stars is a circle representing [Pan-Americanism](https://en.wikipedia.org/wiki/Pan-Americanism) as it signifies the outer boarder of the emblems used by the movement (see example below).
 
 <div align="left">
 <a href=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="379" alt="Pan-Americanism emblem from 1909"></a>
