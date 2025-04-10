@@ -1,0 +1,89 @@
+# [Flag of America](https://github.com/andrewtavis/blob/main/READMES/README-gn.md)
+
+> [!NOTE]
+> This readme file is in need of localization. Pull requests are welcome!
+> Please use articles from the Wikipedia for the given language if possible, or English Wikipedia if the page isn't available.
+
+[![license](https://img.shields.io/github/license/andrewtavis/flag-of-america.svg?label=%20)](../LICENSE.txt)
+[![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](../.github/CODE_OF_CONDUCT.md)
+[![commons](https://img.shields.io/badge/Wikimedia%20Commons-006699.svg?logo=WikimediaCommons&logoColor=ffffff)](https://commons.wikimedia.org/w/index.php?search=Flag+of+America&title=Special:MediaSearch&type=image)
+
+<!-- [![wikipedia](https://img.shields.io/badge/Wikipedia-990000.svg?logo=Wikipedia&logoColor=ffffff)](https://gn.wikipedia.org/)
+[![wikidata](https://img.shields.io/badge/Wikidata-339966.svg?logo=Wikidata&logoColor=ffffff)](https://www.wikidata.org/) -->
+
+### A flag for...
+
+<details><summary><strong>🌐 Other languages</strong></summary>
+<p>
+
+- [Aymara](./README-ay.md)
+- [Nederlands](./README-nl.md)
+- [English](../README.md)
+- [Español](./README-es.md)
+- [Français](./README-fr.md)
+- Guarani
+- [Haitian Creole](./README-ht.md)
+- [Português](./README-pt.md)
+- [Quechua](./README-qu.md)
+
+</p>
+</details>
+
+The **Flag of America** is...
+
+> [!NOTE]
+> Downloadable files...
+
+<a id="contents"></a>
+
+## **Contents**
+
+- [Flag](#flag-)
+- [Design](#design-)
+  - [Symbols](#symbols-)
+  - [Colors](#colors-)
+- [License](#license-)
+
+<a id="flag-"></a>
+
+## Flag [`⇧`](#contents)
+
+> A potential flag...
+
+<div align="left">
+<a href="../images/flag/flag_of_america.svg"><img src="../images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
+</div>
+
+<a id="design-"></a>
+
+## Design [`⇧`](#contents)
+
+The following describes...
+
+<div align="left">
+<a href="../images/design_specification/flag_of_america_design_specification.svg"><img src="../images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
+</div>
+
+<a id="symbols-"></a>
+
+### Symbols [`⇧`](#contents)
+
+Twenty gold stars...
+
+<div align="left">
+<a href="../.github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src="../.github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="379" alt="Pan-Americanism emblem from 1909"></a>
+</div>
+
+> Pan-Americanism emblem...
+
+<a id="colors-"></a>
+
+### Colors [`⇧`](#contents)
+
+A circle of gold...
+
+<a id="license-"></a>
+
+## License [`⇧`](#contents)
+
+This work is...

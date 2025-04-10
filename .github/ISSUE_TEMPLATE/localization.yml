@@ -1,0 +1,26 @@
+name: 🌐 Localization
+description: Report issues or offer help for localizations.
+type: "task"
+labels: ["localization"]
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      options:
+        - label: I have searched [open localization issues](https://github.com/andrewtavis/flag-of-america/issues?q=is%3Aissue+is%3Aopen+label%3Alocalization)
+          required: true
+        - label: I agree to follow the [Code of Conduct](.github/CODE_OF_CONDUCT.md)
+          required: true
+  - type: textarea
+    id: support
+    attributes:
+      label: Description
+      placeholder: |
+        Tell us where we needs localization support, and let us know if you're able to help!
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your efforts to bring the project to other languages!
