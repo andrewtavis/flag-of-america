@@ -47,7 +47,7 @@ The **Flag of America** is a symbolic representation of America. Its purpose is 
 > A potential flag for the American Union
 
 <div align="left">
-<a href="./images/flag/flag_of_america.svg"><img src="./images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
+<a href="./images/flag/flag_of_america.png"><img src="./images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
 </div>
 
 <a id="design-"></a>
@@ -57,7 +57,7 @@ The **Flag of America** is a symbolic representation of America. Its purpose is 
 The following describes the design process including the meaning behind the symbols and colors.
 
 <div align="left">
-<a href="./images/design_specification/flag_of_america_design_specification.svg"><img src="./images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America design specification"></a>
+<a href="./images/design_specification/flag_of_america_design_specification.png"><img src="./images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America design specification"></a>
 </div>
 
 <a id="symbols-"></a>

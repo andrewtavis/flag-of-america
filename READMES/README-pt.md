@@ -50,7 +50,7 @@ The **Flag of America** is...
 > A potential flag...
 
 <div align="left">
-<a href="../images/flag/flag_of_america.svg"><img src="../images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
+<a href="../images/flag/flag_of_america.png"><img src="../images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
 </div>
 
 <a id="design-"></a>
@@ -60,7 +60,7 @@ The **Flag of America** is...
 The following describes...
 
 <div align="left">
-<a href="../images/design_specification/flag_of_america_design_specification.svg"><img src="../images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
+<a href="../images/design_specification/flag_of_america_design_specification.png"><img src="../images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
 </div>
 
 <a id="symbols-"></a>
