@@ -74,6 +74,8 @@ Twenty gold stars...
 </div>
 
 > Emblem of the...
+>
+> Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>)
 
 <a id="colors-"></a>
 
