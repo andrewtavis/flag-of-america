@@ -5,7 +5,7 @@
 
 [![license](https://img.shields.io/github/license/andrewtavis/flag-of-america.svg?label=%20)](../LICENSE.txt)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](../.github/CODE_OF_CONDUCT.md)
-[![commons](https://img.shields.io/badge/Wikimedia%20Commons-006699.svg?logo=WikimediaCommons&logoColor=ffffff)](https://commons.wikimedia.org/w/index.php?search=Flag+of+America&title=Special:MediaSearch&type=image)
+[![commons](https://img.shields.io/badge/Wikimedia%20Commons-006699.svg?logo=WikimediaCommons&logoColor=ffffff)](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg)
 
 <!-- [![wikipedia](https://img.shields.io/badge/Wikipedia-990000.svg?logo=Wikipedia&logoColor=ffffff)](https://pt.wikipedia.org/)
 [![wikidata](https://img.shields.io/badge/Wikidata-339966.svg?logo=Wikidata&logoColor=ffffff)](https://www.wikidata.org/) -->
