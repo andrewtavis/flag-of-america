@@ -44,11 +44,11 @@ The **Flag of America** is a symbolic representation of the Americas. Its purpos
 
 ## Flag [`⇧`](#contents)
 
-> A potential flag for the American Union
-
 <div align="left">
 <a href="./images/flag/flag_of_america.png"><img src="./images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
 </div>
+
+> A potential flag for the American Union
 
 <a id="design-"></a>
 
@@ -60,6 +60,8 @@ The following describes the design process including the meaning behind the symb
 <a href="./images/design_specification/flag_of_america_design_specification.png"><img src="./images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America design specification"></a>
 </div>
 
+> The design specification detailing all ratios used
+
 <a id="symbols-"></a>
 
 ### Symbols [`⇧`](#contents)
@@ -67,12 +69,16 @@ The following describes the design process including the meaning behind the symb
 Twenty gold stars are set in a circle conveying American unity, harmony and solidarity. The number of stars was chosen because of the [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas) including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples). Within the stars is a circle representing [Pan-Americanism](https://en.wikipedia.org/wiki/Pan-Americanism) as it signifies the outer border of the emblems used by the movement (see example below).
 
 <div align="left">
-<a href=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="379" alt="Emblem of the International Union of American Republics from 1909"></a>
+  <br>
+    <a href=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="360" alt="Emblem of the International Union of American Republics from 1909"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="./images/symbol/flag_of_america_symbol.png"><img src="./images/symbol/flag_of_america_symbol.png" width="360" alt="Symbol of the Flag of America"></a>
+  <br>
 </div>
 
-> Emblem of the International Union of American Republics (1909)
+> Emblem of the International Union of American Republics (1909) and the symbol of the Flag of America
 >
-> Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>)
+> Emblem source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>)
 
 <a id="colors-"></a>
 

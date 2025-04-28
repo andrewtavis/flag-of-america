@@ -47,11 +47,11 @@ The **Flag of America** is...
 
 ## Flag [`⇧`](#contents)
 
-> A potential flag...
-
 <div align="left">
 <a href="../images/flag/flag_of_america.png"><img src="../images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
 </div>
+
+> A potential flag...
 
 <a id="design-"></a>
 
@@ -63,6 +63,8 @@ The following describes...
 <a href="../images/design_specification/flag_of_america_design_specification.png"><img src="../images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
 </div>
 
+> The design specification...
+
 <a id="symbols-"></a>
 
 ### Symbols [`⇧`](#contents)
@@ -70,12 +72,16 @@ The following describes...
 Twenty gold stars...
 
 <div align="left">
-<a href="../.github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src="../.github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="379" alt="Emblem of the International Union of American Republics from 1909"></a>
+  <br>
+    <a href=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="360" alt="Emblem of the International Union of American Republics from 1909"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="./images/symbol/flag_of_america_symbol.png"><img src="./images/symbol/flag_of_america_symbol.png" width="360" alt="Symbol of the Flag of America"></a>
+  <br>
 </div>
 
 > Emblem of the...
 >
-> Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>)
+> Emblem source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>)
 
 <a id="colors-"></a>
 
