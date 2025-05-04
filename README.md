@@ -25,7 +25,7 @@
 </p>
 </details>
 
-The **Flag of America** is a symbolic representation of the Americas. Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
+The **Flag of America** is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
 > [!NOTE]
 > Downloadable files for the [flag](./images/flag/), [stars symbol](/images/symbol/) and [design specification](/images/design_specification/) can be found in the [images](./images/) directory.
