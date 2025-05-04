@@ -30,7 +30,7 @@ The **Flag of America** is a symbolic representation of the Americas. Its purpos
 > [!NOTE]
 > Downloadable files for the [flag](./images/flag/), [stars symbol](/images/symbol/) and [design specification](/images/design_specification/) can be found in the [images](./images/) directory.
 >
-> These files are also available on Wikimedia Commons: [flag](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg), [stars symbol](https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg) and [design specification](https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg)
+> These files are also available on Wikimedia Commons: [flag](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg), [stars symbol](https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg) and [design specification](https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg).
 
 <a id="contents"></a>
 
