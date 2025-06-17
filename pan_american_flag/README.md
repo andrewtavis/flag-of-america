@@ -1,4 +1,4 @@
-# [Pan-American Flag](https://github.com/andrewtavis/flag-of-america)
+# [Pan-American Flag](https://github.com/andrewtavis/flag-of-america/tree/main/pan_american_flag)
 
 [![license](https://img.shields.io/github/license/andrewtavis/flag-of-america.svg?label=)](LICENSE.txt)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](.github/CODE_OF_CONDUCT.md)
