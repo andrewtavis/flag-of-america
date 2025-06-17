@@ -9,26 +9,10 @@
 
 ### A flag for American solidarity
 
-<details><summary><strong>🌐 Other languages</strong></summary>
-<p>
-
-- [Aymara](./READMES/README-ay.md)
-- [Nederlands](./READMES/README-nl.md)
-- English
-- [Español](./READMES/README-es.md)
-- [Français](./READMES/README-fr.md)
-- [Guarani](./READMES/README-gn.md)
-- [Haitian Creole](./READMES/README-ht.md)
-- [Português](./READMES/README-pt.md)
-- [Quechua](./READMES/README-qu.md)
-
-</p>
-</details>
-
 The **Flag of America** is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
 > [!NOTE]
-> Downloadable files for the [flag](./images/flag/), [stars symbol](/images/symbol/) and [design specification](/images/design_specification/) can be found in the [images](./images/) directory.
+> Downloadable files for the [flag](./flag_of_america/flag/), [stars symbol](./flag_of_america/symbol/) and [design specification](./flag_of_america/design_specification/) can be found in the [flag_of_america](./flag_of_america/) directory. An alternate design can also be found in the [pan_american_flag](./pan_american_flag/) directory.
 >
 > These files are also available on Wikimedia Commons: [flag](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg), [stars symbol](https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg) and [design specification](https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg).
 
@@ -47,7 +31,9 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 ## Flag [`⇧`](#contents)
 
 <div align="left">
-<a href="./images/flag/flag_of_america.png"><img src="./images/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America"></a>
+  <a href="./flag_of_america/flag/flag_of_america.png">
+    <img src="./flag_of_america/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America">
+  </a>
 </div>
 
 > A potential flag for the American Union
@@ -59,34 +45,32 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 The following describes the design process including the meaning behind the symbols and colors.
 
 <div align="left">
-<a href="./images/design_specification/flag_of_america_design_specification.png"><img src="./images/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America design specification"></a>
+  <a href="./flag_of_america/design_specification/flag_of_america_design_specification.png">
+    <img src="./flag_of_america/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America design specification">
+  </a>
 </div>
 
-> The design specification detailing all ratios used
+> The design specification detailing all ratios and principles used
 
 <a id="symbols-"></a>
 
 ### Symbols [`⇧`](#contents)
 
-Twenty gold stars are set in a circle conveying American unity, harmony and solidarity. The number of stars was chosen because of the [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas) including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples). Within the stars is a circle representing [Pan-Americanism](https://en.wikipedia.org/wiki/Pan-Americanism) as it signifies the outer border of the emblems used by the movement (see example below).
+Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are set in the shape of a chain link that is "unfinished and broken" in reference to the potential of a unified America as well as the movements that ended [colonialism](https://en.wikipedia.org/wiki/European_colonization_of_the_Americas) and [slavery](https://en.wikipedia.org/wiki/Atlantic_slave_trade) in the Americas. The number of stars was chosen because of the [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas) including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples).
 
 <div align="left">
-  <br>
-    <a href=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg"><img src=".github/resources/international_union_of_american_republics_logo_in_1909_from_publication_cacao_(1909)_(ia_cacao00inte)_(page_1_crop).jpg" width="360" alt="Emblem of the International Union of American Republics from 1909"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="./images/symbol/flag_of_america_symbol.png"><img src="./images/symbol/flag_of_america_symbol.png" width="360" alt="Symbol of the Flag of America"></a>
-  <br>
+  <a href="./flag_of_america/symbol/flag_of_america_symbol.png">
+    <img src="./flag_of_america/symbol/flag_of_america_symbol.png" width="360" alt="Symbol of the Flag of America">
+  </a>
 </div>
 
-> Emblem of the International Union of American Republics (1909) and the symbol of the Flag of America
->
-> Emblem source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%22International_Union_of_American_Republics%22_logo_in_1909_-_from_publication_Cacao_(1909)_(IA_cacao00inte)_(page_1_crop).jpg>)
+> The symbol of the Flag of America
 
 <a id="colors-"></a>
 
 ### Colors [`⇧`](#contents)
 
-A circle of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags to connect the democratic goals of these [supranational unions](https://en.wikipedia.org/wiki/Supranational_union). White was chosen for the base color as all [American nations](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas) have either white or yellow on their flag. The hexadecimal color code for the gold is `#FBD324` from the border of the [emblem](https://en.wikipedia.org/wiki/Flag_of_the_Organization_of_American_States) of the [Organization of American States](https://en.wikipedia.org/wiki/Organization_of_American_States).
+The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags to connect the democratic goals of these [supranational unions](https://en.wikipedia.org/wiki/Supranational_union). White was chosen for the base color as all [American nations](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas) have either white or yellow on their flag. The hexadecimal color code for the gold is `#FBD324` from the border of the [emblem](https://en.wikipedia.org/wiki/Flag_of_the_Organization_of_American_States) of the [Organization of American States](https://en.wikipedia.org/wiki/Organization_of_American_States).
 
 <a id="license-"></a>
 
