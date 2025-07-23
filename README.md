@@ -30,11 +30,15 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 ## Flag [`⇧`](#contents)
 
+<br/>
+
 <div align="left">
   <a href="./flag_of_america/flag/flag_of_america.png">
     <img src="./flag_of_america/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America">
   </a>
 </div>
+
+<br/>
 
 > A potential flag for the American Union
 
@@ -44,11 +48,15 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 The following describes the design process including the meaning behind the symbols and colors.
 
+<br/>
+
 <div align="left">
   <a href="./flag_of_america/design_specification/flag_of_america_design_specification.png">
     <img src="./flag_of_america/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America design specification">
   </a>
 </div>
+
+<br/>
 
 > The design specification detailing all ratios and principles used
 
@@ -56,13 +64,21 @@ The following describes the design process including the meaning behind the symb
 
 ### Symbols [`⇧`](#contents)
 
-Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America as well as the movements that ended [colonialism](https://en.wikipedia.org/wiki/European_colonization_of_the_Americas) and [slavery](https://en.wikipedia.org/wiki/Atlantic_slave_trade) in the Americas. The number of stars was chosen because of the [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas) including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples).
+Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America as well as the power of American social movements including those that ended [colonialism](https://en.wikipedia.org/wiki/European_colonization_of_the_Americas) and [slavery](https://en.wikipedia.org/wiki/Atlantic_slave_trade) in the Americas. The number of stars was chosen in reference to the numeric systems of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas), specifically the:
+
+- [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples)
+- advanced timekeeping systems including the [Mesoamerican Long Count](https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar) and various [lunisolar](https://en.wikipedia.org/wiki/Lunisolar_calendar) calendars
+- innovative systems of mathematics including the [arithmetic and accounting tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire)
+
+<br/>
 
 <div align="left">
   <a href="./flag_of_america/symbol/flag_of_america_symbol.png">
     <img src="./flag_of_america/symbol/flag_of_america_symbol.png" width="360" alt="Symbol of the Flag of America">
   </a>
 </div>
+
+<br/>
 
 > The symbol of the Flag of America
 
