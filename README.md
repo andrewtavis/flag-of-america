@@ -12,7 +12,7 @@
 The **Flag of America** is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
 > [!NOTE]
-> Downloadable files for the [flag](./flag_of_america/flag/), [stars symbol](./flag_of_america/symbol/) and [design specification](./flag_of_america/design_specification/) can be found in the [flag_of_america](./flag_of_america/) directory. An alternate design can also be found in the [pan_american_flag](./pan_american_flag/) directory.
+> Downloadable files for the [flag](./flag_of_america/flag/), [stars symbol](./flag_of_america/symbol/) and [design specification](./flag_of_america/design_specification/) can be found in the [flag_of_america](./flag_of_america/) directory.
 >
 > These files are also available on Wikimedia Commons: [flag](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg), [stars symbol](https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg) and [design specification](https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg).
 
