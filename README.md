@@ -66,9 +66,9 @@ The following describes the design process including the meaning behind the symb
 
 Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America as well as the power of its social movements including those that ended [colonialism](https://en.wikipedia.org/wiki/European_colonization_of_the_Americas) and [slavery](https://en.wikipedia.org/wiki/Atlantic_slave_trade) in the Americas. The number of stars was chosen in reference to the numeric systems of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas), specifically the:
 
-- [base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples)
-- advanced timekeeping systems including the [Mesoamerican Long Count](https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar) and various [lunisolar](https://en.wikipedia.org/wiki/Lunisolar_calendar) calendars
-- innovative systems of mathematics including the [arithmetic and accounting tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire)
+- [Base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples)
+- Advanced timekeeping systems including the [Mesoamerican Long Count](https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar) and various [lunisolar](https://en.wikipedia.org/wiki/Lunisolar_calendar) calendars
+- Innovative systems of mathematics including the [arithmetic and accounting tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire)
 
 <br/>
 
@@ -86,7 +86,7 @@ Twenty gold stars are set in a design conveying American unity, harmony and soli
 
 ### Colors [`⇧`](#contents)
 
-The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags to connect the democratic goals of these [supranational unions](https://en.wikipedia.org/wiki/Supranational_union). White was chosen for the base color as all [American nations](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas) have either white or yellow on their flag. The hexadecimal color code for the gold is `#FBD324` from the border of the [emblem](https://en.wikipedia.org/wiki/Flag_of_the_Organization_of_American_States) of the [Organization of American States](https://en.wikipedia.org/wiki/Organization_of_American_States).
+The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags to connect the democratic goals of these [supranational unions](https://en.wikipedia.org/wiki/Supranational_union). White was chosen for the base color as all [American nations](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas) have either white or yellow on their flag. The hexadecimal color code for the gold is `#FFD000` (max yellow of `#FBD324` from the border of the [emblem](https://en.wikipedia.org/wiki/Flag_of_the_Organization_of_American_States) of the [Organization of American States](https://en.wikipedia.org/wiki/Organization_of_American_States)).
 
 <a id="license-"></a>
 
