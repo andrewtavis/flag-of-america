@@ -64,7 +64,7 @@ The following describes the design process including the meaning behind the symb
 
 ### Symbolism [`⇧`](#contents)
 
-Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America as well as the power of the social movements that shape it.
+Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America and the power of its social movements.
 
 The number of stars was chosen in reference to the numeric systems of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas), specifically the:
 
