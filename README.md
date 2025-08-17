@@ -64,11 +64,11 @@ The following describes the design process including the meaning behind the symb
 
 ### Symbolism [`⇧`](#contents)
 
-Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America as well as the power of the social movements that shape it. The chain specifically references [colonialism](https://en.wikipedia.org/wiki/European_colonization_of_the_Americas) and [slavery](https://en.wikipedia.org/wiki/Atlantic_slave_trade) in the Americas, as the symbol with the missing stars added resembles two interlocked rings from the [Flag of Europe](https://en.wikipedia.org/wiki/Flag_of_Europe).
+Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America as well as the power of the social movements that shape it.
 
 The number of stars was chosen in reference to the numeric systems of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas), specifically the:
 
-- [Base-20](https://en.wikipedia.org/wiki/Vigesimal) number systems of many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples)
+- [Base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems of many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples)
 - Advanced timekeeping systems including the [Mesoamerican Long Count](https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar) and various [lunisolar](https://en.wikipedia.org/wiki/Lunisolar_calendar) calendars
 - Innovative systems of mathematics including the [arithmetic and accounting tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire)
 
