@@ -22,7 +22,7 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 - [Flag](#flag-)
 - [Design](#design-)
-  - [Symbols](#symbols-)
+  - [Symbolism](#symbolism-)
   - [Colors](#colors-)
 - [License](#license-)
 
@@ -60,9 +60,9 @@ The following describes the design process including the meaning behind the symb
 
 > The design specification detailing all ratios and principles used
 
-<a id="symbols-"></a>
+<a id="symbolism-"></a>
 
-### Symbols [`⇧`](#contents)
+### Symbolism [`⇧`](#contents)
 
 Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America as well as the power of the social movements that shape its history. The chain specifically references [colonialism](https://en.wikipedia.org/wiki/European_colonization_of_the_Americas) and [slavery](https://en.wikipedia.org/wiki/Atlantic_slave_trade) in the Americas, as the symbol with the missing stars added resembles two interlocked rings from the [Flag of Europe](https://en.wikipedia.org/wiki/Flag_of_Europe).
 
