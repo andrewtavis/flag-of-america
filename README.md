@@ -30,7 +30,7 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 ## Flag [`⇧`](#contents)
 
-<br/>
+[See the flag waving 🏳️](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd9%2FFlag_of_America.svg&background=blue-sky)
 
 <div align="left">
   <a href="./flag_of_america/flag/flag_of_america.png">
