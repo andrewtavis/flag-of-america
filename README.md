@@ -66,11 +66,7 @@ The following describes the design process including the meaning behind the symb
 
 Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" in reference to the potential of a unified America and the power of its social movements.
 
-The number of stars was chosen in reference to the numeric systems of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas), specifically the:
-
-- [Base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems of many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit) and [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples)
-- Advanced timekeeping systems including the [Mesoamerican Long Count](https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar) and various [lunisolar](https://en.wikipedia.org/wiki/Lunisolar_calendar) calendars
-- Innovative systems of mathematics including the [arithmetic and accounting tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire)
+The number of stars was chosen in reference to the systems of mathematics and astronomy of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas). These include the [base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems used by many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit), [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples) and [Muisca](https://en.wikipedia.org/wiki/Muisca); the calendar systems used throughout the Americas; and [innovative arithmetic tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) like those of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire).
 
 <br/>
 
