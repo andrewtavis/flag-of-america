@@ -64,7 +64,7 @@ The following describes the design process including the meaning behind the symb
 
 ### Symbolism [`⇧`](#contents)
 
-Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged in a shape that resembles an outline of the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" to represent the potential of a unified America and the power of its social movements.
+Twenty gold stars are set in a design conveying American unity, harmony and solidarity. The stars are arranged to resemble the shape of the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "unfinished and broken" to represent the potential of a unified America and the power of its social movements.
 
 The number of stars was chosen in reference to the systems of mathematics and astronomy of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas). These include the [base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems of many peoples including the [Mayans](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit), [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples) and [Muisca](https://en.wikipedia.org/wiki/Muisca); the [innovative arithmetic tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) used like those of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire); and the advanced calendar systems developed throughout the Americas.
 
