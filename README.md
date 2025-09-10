@@ -11,11 +11,6 @@
 
 The **Flag of America** is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
-> [!NOTE]
-> Downloadable files for the [flag](./flag_of_america/flag/), [stars symbol](./flag_of_america/symbol/) and [design specification](./flag_of_america/design_specification/) can be found in the [flag_of_america](./flag_of_america/) directory.
->
-> These files are also available on Wikimedia Commons: [flag](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg), [stars symbol](https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg) and [design specification](https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg).
-
 <a id="contents"></a>
 
 ## **Contents**
@@ -24,6 +19,7 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 - [Design](#design-)
   - [Symbolism](#symbolism-)
   - [Colors](#colors-)
+- [Files](#files-)
 - [License](#license-)
 
 <a id="flag-"></a>
@@ -85,6 +81,12 @@ The number of stars was chosen in reference to the systems of mathematics and as
 ### Colors [`⇧`](#contents)
 
 The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags to connect the democratic goals of these [supranational unions](https://en.wikipedia.org/wiki/Supranational_union). White was chosen for the base color as all [American nations](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas) have either white or yellow on their flag. The hexadecimal color code for the gold is `#FFC400`.
+
+<a id="files-"></a>
+
+## Files [`⇧`](#contents)
+
+Downloadable files for the [flag](./flag_of_america/flag/), [stars symbol](./flag_of_america/symbol/) and [design specification](./flag_of_america/design_specification/) can be found in the [flag_of_america](./flag_of_america/) directory. These files are also available on Wikimedia Commons: [flag](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg), [stars symbol](https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg) and [design specification](https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg).
 
 <a id="license-"></a>
 
