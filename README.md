@@ -7,9 +7,9 @@
 <!-- [![wikipedia](https://img.shields.io/badge/Wikipedia-990000.svg?logo=Wikipedia&logoColor=ffffff)](https://en.wikipedia.org/)
 [![wikidata](https://img.shields.io/badge/Wikidata-339966.svg?logo=Wikidata&logoColor=ffffff)](https://www.wikidata.org/) -->
 
-### A flag for American solidarity
+### A flag for American solidarity, collaboration and political integration
 
-The **Flag of America** is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
+The **Flag of America** is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans beyond national identities.
 
 <a id="contents"></a>
 
