@@ -26,35 +26,23 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 ## Flag [`⇧`](#contents)
 
-[See the flag waving 🏳️](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd9%2FFlag_of_America.svg&background=blue-sky)
+[See the flag waving 🚩](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd9%2FFlag_of_America.svg&background=blue-sky)
 
 <div align="left">
   <a href="./flag_of_america/flag/flag_of_america.png">
-    <img src="./flag_of_america/flag/flag_of_america.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America">
+    <img src="./flag_of_america/flag/flag_of_america.svg" width="600" alt="Flag of America">
   </a>
 </div>
 
 <br/>
 
-> A potential flag for the American Union
+> A flag for American solidarity, collaboration and political integration
 
 <a id="design-"></a>
 
 ## Design [`⇧`](#contents)
 
 The following describes the design process including the meaning behind the symbols and colors.
-
-<br/>
-
-<div align="left">
-  <a href="./flag_of_america/design_specification/flag_of_america_design_specification.png">
-    <img src="./flag_of_america/design_specification/flag_of_america_design_specification.svg" width="600" style="border:1px solid #F5F5F5;" alt="Flag of America design specification">
-  </a>
-</div>
-
-<br/>
-
-> The design specification detailing all ratios and principles used
 
 <a id="symbolism-"></a>
 
@@ -80,7 +68,19 @@ The stars and their number celebrate the systems of astronomy and mathematics of
 
 ### Colors [`⇧`](#contents)
 
-The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags. White was chosen for the base color as all [American nations](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas) have either white or yellow on their flag. The hexadecimal color code for the gold is `#FFC400`.
+The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags. Dark red was chosen as a distinctive base color that maintains contrast with the stars. The hexadecimal color codes are `#FFBA00` for the gold and `#860000` for the red, with the red coming from the flag of the [American Indian Movement](https://en.wikipedia.org/wiki/American_Indian_Movement).
+
+<br/>
+
+<div align="left">
+  <a href="./flag_of_america/design_specification/flag_of_america_design_specification.png">
+    <img src="./flag_of_america/design_specification/flag_of_america_design_specification.svg" width="600" alt="Flag of America design specification">
+  </a>
+</div>
+
+<br/>
+
+> The design specification detailing all ratios and principles used
 
 <a id="files-"></a>
 
