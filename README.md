@@ -68,7 +68,7 @@ The stars and their number celebrate the systems of astronomy and mathematics of
 
 ### Colors [`⇧`](#contents)
 
-The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags. Dark red was chosen as a distinctive base color that maintains contrast with the stars. The hexadecimal color codes are `#FFBA00` for the gold and `#860000` for the red, with the red coming from the flag of the [American Indian Movement](https://en.wikipedia.org/wiki/American_Indian_Movement).
+The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags. Dark red was chosen as a distinctive base color that maintains contrast with the stars. The hexadecimal color codes are `#FFCF00` for the gold and `#860000` for the red, with the red coming from the flag of the [American Indian Movement](https://en.wikipedia.org/wiki/American_Indian_Movement).
 
 <br/>
 
