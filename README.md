@@ -42,7 +42,7 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 ## Design [`⇧`](#contents)
 
-The following describes the design process including the meaning behind the symbols and colors.
+The following describes the design including the meaning behind the symbols and colors.
 
 <a id="symbolism-"></a>
 
