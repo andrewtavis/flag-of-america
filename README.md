@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # [Flag of America](https://github.com/andrewtavis/flag-of-america)
 
 [![license](https://img.shields.io/github/license/andrewtavis/flag-of-america.svg?label=)](LICENSE.txt)
@@ -15,16 +17,14 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 ## **Contents**
 
-- [Flag](#flag-)
-- [Design](#design-)
-  - [Symbolism](#symbolism-)
-  - [Colors](#colors-)
-- [Files](#files-)
-- [License](#license-)
+- [Flag](#flag)
+- [Design](#design)
+  - [Symbolism](#symbolism)
+  - [Colors](#colors)
+- [Files](#files)
+- [License](#license)
 
-<a id="flag-"></a>
-
-## Flag [`⇧`](#contents)
+## Flag
 
 [See the flag waving 🚩](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd9%2FFlag_of_America.svg&background=blue-sky)
 
@@ -38,15 +38,15 @@ The **Flag of America** is a symbolic representation of the [Americas](https://e
 
 > A flag for American solidarity, collaboration and political integration
 
-<a id="design-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Design [`⇧`](#contents)
+## Design
 
 The following describes the design including the meaning behind the symbols and colors.
 
-<a id="symbolism-"></a>
+<a id="symbolism"></a>
 
-### Symbolism [`⇧`](#contents)
+### Symbolism
 
 Twenty gold stars create a symbol of American unity, harmony and solidarity. The stars are arranged to resemble the shape of the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is "broken and unfinished" to represent the power of social movements in the Americas as well as the potential of a unified America.
 
@@ -64,9 +64,9 @@ The stars and their number celebrate the systems of astronomy and mathematics of
 
 > The symbol of the Flag of America
 
-<a id="colors-"></a>
+<a id="colors"></a>
 
-### Colors [`⇧`](#contents)
+### Colors
 
 The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags. Dark red was chosen as a distinctive base color that maintains contrast with the stars. The hexadecimal color codes are `#FFCF00` for the gold and `#860000` for the red.
 
@@ -82,14 +82,16 @@ The use of gold (yellow) stars brings consistency with the [European Union](http
 
 > The design specification detailing all ratios and principles used
 
-<a id="files-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Files [`⇧`](#contents)
+## Files
 
 Downloadable files for the [flag](./flag_of_america/flag/), [stars symbol](./flag_of_america/symbol/) and [design specification](./flag_of_america/design_specification/) can be found in the [flag_of_america](./flag_of_america/) directory. These files are also available on Wikimedia Commons: [flag](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg), [stars symbol](https://commons.wikimedia.org/wiki/File:Flag_of_America_Symbol.svg) and [design specification](https://commons.wikimedia.org/wiki/File:Flag_of_America_Design_Specification.svg).
 
-<a id="license-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## License [`⇧`](#contents)
+## License
 
 This work is published under the [Creative Commons 0](https://creativecommons.org/share-your-work/public-domain/cc0/) license meaning that it is fully in the [public domain](https://en.wikipedia.org/wiki/Public_domain). Others may freely build upon, enhance and reuse this work for any purposes without restriction under copyright law.
+
+<sub><a href="#top">Back to top.</a></sub>
