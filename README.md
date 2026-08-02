@@ -52,7 +52,7 @@ Twenty gold stars create a symbol of American unity, harmony and solidarity. The
 
 The stars and their number celebrate the systems of astronomy and underlying mathematics of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas). These include the advanced calendar systems developed throughout the Americas; the [base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems of peoples including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit), [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples), [Muisca](https://en.wikipedia.org/wiki/Muisca) and many [nations of the Great Plains](https://en.wikipedia.org/wiki/Caddoan_languages); as well as the [innovative arithmetic tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) used like those of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire).
 
-The implied "unbroken" symbol with two stars added comprises two connected twelve-star circles. Each circle represents a major aspect of European colonialism and its aftermath: the physical domination of America and intellectual views rooted in supremacy.
+The implied "unbroken" symbol with two stars added comprises two connected twelve-star circles. The circles represent European colonialism and its violent legacy of national and racial supremacy inherited by the Americas.
 
 <br/>
 
