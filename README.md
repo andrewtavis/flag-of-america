@@ -11,7 +11,7 @@
 
 ### A flag for American solidarity, collaboration and political integration
 
-The **Flag of America** is a symbolic representation of the [Americas](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
+The **Flag of America** is a symbolic representation of [America](https://en.wikipedia.org/wiki/Americas). Its purpose is to support the unity of all Americans in their struggle towards ever greater collaboration and political integration.
 
 <a id="contents"></a>
 
@@ -48,9 +48,9 @@ The following describes the design including the meaning behind the symbols and 
 
 ### Symbolism
 
-Twenty gold stars create a symbol of American unity, harmony and solidarity. The stars and their number celebrate the systems of astronomy and underlying mathematics of [Indigenous peoples of the Americas](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas). These include the advanced calendar systems developed throughout the Americas; the [base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems of peoples including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit), [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples), [Muisca](https://en.wikipedia.org/wiki/Muisca) and many [nations of the Great Plains](https://en.wikipedia.org/wiki/Caddoan_languages); as well as the [innovative arithmetic tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) used like those of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire).
+Twenty gold stars create a symbol of American unity, harmony and solidarity. The stars and their number celebrate the systems of astronomy and underlying mathematics of [Indigenous peoples of America](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas). These include the advanced calendar systems developed throughout America; the [base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems of peoples including the [Maya](https://en.wikipedia.org/wiki/Maya_civilization), [Aztecs](https://en.wikipedia.org/wiki/Aztecs), [Inuit](https://en.wikipedia.org/wiki/Inuit), [Yupik](https://en.wikipedia.org/wiki/Yupik_peoples), [Muisca](https://en.wikipedia.org/wiki/Muisca) and many [nations of the Great Plains](https://en.wikipedia.org/wiki/Caddoan_languages); as well as the [innovative arithmetic tools](https://en.wikipedia.org/wiki/Mathematics_of_the_Incas) used like those of the [Inca](https://en.wikipedia.org/wiki/Inca_Empire).
 
-The stars are arranged to resemble the shape of the [Americas](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is broken and unfinished to represent the power of social movements in the Americas as well as the potential of a unified America. The implied unbroken symbol if two stars were added is two connected twelve-star circles. These circles represent European colonialism and its violent legacy of national and racial supremacy inherited by the Americas.
+The stars are arranged to resemble the shape of [America](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is broken and unfinished to represent the power of social movements in America as well as its potential as a unified whole. The implied unbroken symbol if two stars were added is two connected twelve-star circles. These circles represent European colonialism and its violent legacy of national and racial supremacy inherited by post-colonial American societies.
 
 <br/>
 
@@ -68,7 +68,7 @@ The stars are arranged to resemble the shape of the [Americas](https://en.wikipe
 
 ### Colors
 
-Red and yellow are both common [national colors in the Americas](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas). The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags. Dark red was chosen as a distinctive base color that maintains contrast with the stars. The hexadecimal color codes are `#FFCF00` for the gold and `#860000` for the red.
+Red and yellow are both common [national colors in America](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas). The use of gold (yellow) stars brings consistency with the [European Union](https://en.wikipedia.org/wiki/European_Union) and [African Union](https://en.wikipedia.org/wiki/African_Union) flags. Dark red was chosen as a distinctive base color that maintains contrast with the stars. The hexadecimal color codes are `#FFCF00` for the gold and `#860000` for the red.
 
 <br/>
 
