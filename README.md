@@ -48,7 +48,7 @@ The following describes the design including the meaning behind the symbols and 
 
 ### Symbolism
 
-Twenty gold stars create a symbol of American unity, harmony and solidarity. The stars and their number celebrate the systems of astronomy and underlying mathematics of [Indigenous peoples of America](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas). Specifically observed are the advanced [solar and lunisolar calendars](https://en.wikipedia.org/wiki/List_of_calendars) developed throughout America, the [base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems used by many peoples and the innovative tools created for calculation.
+Twenty gold stars create a symbol of American unity, harmony and solidarity. The stars and their number celebrate the systems of astronomy and underlying mathematics of [Indigenous peoples of America](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas). These include the advanced [solar and lunisolar calendars](https://en.wikipedia.org/wiki/List_of_calendars) developed throughout America, the [base-20](https://en.wikipedia.org/wiki/Vigesimal) numeral systems used by many peoples and the innovative tools created for calculation.
 
 The stars are arranged to resemble the shape of [America](https://en.wikipedia.org/wiki/Americas) as well as a chain link. The chain link is broken and unfinished to represent the power of social movements in America and the potential of a unified continent. The implied unbroken chain if two stars were added is two connected twelve-star circles. These circles represent European colonialism and its violent legacy of national, economic and racial supremacy inherited by post-colonial American societies.
 
