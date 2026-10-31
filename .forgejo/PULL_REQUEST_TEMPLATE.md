@@ -6,7 +6,7 @@ Thank you for your pull request! 🚀
 
 <!-- Please replace the empty checkboxes [] below with checked ones [x] accordingly. -->
 
-- [] This pull request is on a [separate branch](https://docs.github.com/en/get-started/quickstart/github-flow) and not the main branch
+- [] This pull request is on a [separate branch](https://docs.codeberg.org/collaborating/pull-requests-and-git-flow/) and not the main branch
 
 ---
 
