@@ -17,12 +17,17 @@ The **Flag of America** is a symbolic representation of [America](https://en.wik
 
 ## **Contents**
 
+- [Maintenance](#maintenance)
 - [Flag](#flag)
 - [Design](#design)
   - [Symbolism](#symbolism)
   - [Colors](#colors)
 - [Files](#files)
 - [License](#license)
+
+## Maintenance
+
+This project is maintained at [codeberg.org/andrewtavis/flag-of-america](https://codeberg.org/andrewtavis/flag-of-america). Please visit this remote repository for issues and pull requests.
 
 ## Flag
 
