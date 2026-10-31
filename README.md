@@ -2,7 +2,7 @@
 
 # [Flag of America](https://codeberg.org/andrewtavis/flag-of-america)
 
-[![license](https://img.shields.io/github/license/andrewtavis/flag-of-america.svg?label=)](LICENSE.txt)
+[![license](https://img.shields.io/github/license/andrewtavis/flag-of-america.svg?label=%20)](LICENSE.txt)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](.forgejo/CODE_OF_CONDUCT.md)
 [![commons](https://img.shields.io/badge/Wikimedia%20Commons-006699.svg?logo=WikimediaCommons&logoColor=ffffff)](https://commons.wikimedia.org/wiki/File:Flag_of_America.svg)
 
