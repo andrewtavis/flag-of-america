@@ -34,7 +34,7 @@ This project is maintained at [codeberg.org/andrewtavis/flag-of-america](https:/
 [See the flag waving 🚩](https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd9%2FFlag_of_America.svg&background=blue-sky)
 
 <div align="left">
-  <a href="./flag_of_america/flag/flag_of_america.png">
+  <a href="https://codeberg.org/andrewtavis/flag-of-america/src/branch/main/flag_of_america/flag/flag_of_america.png">
     <img src="./flag_of_america/flag/flag_of_america.svg" width="600" alt="Flag of America">
   </a>
 </div>
@@ -58,7 +58,7 @@ Twenty gold stars create a symbol of American unity, harmony and solidarity. The
 <br/>
 
 <div align="left">
-  <a href="./flag_of_america/symbol/flag_of_america_symbol.png">
+  <a href="https://codeberg.org/andrewtavis/flag-of-america/src/branch/main/flag_of_america/symbol/flag_of_america_symbol.png">
     <img src="./flag_of_america/symbol/flag_of_america_symbol.png" width="360" alt="Symbol of the Flag of America">
   </a>
 </div>
@@ -76,7 +76,7 @@ Red and yellow are both common [national colors in America](https://en.wikipedia
 <br/>
 
 <div align="left">
-  <a href="./flag_of_america/design_specification/flag_of_america_design_specification.png">
+  <a href="https://codeberg.org/andrewtavis/flag-of-america/src/branch/main/flag_of_america/design_specification/flag_of_america_design_specification.png">
     <img src="./flag_of_america/design_specification/flag_of_america_design_specification.svg" width="600" alt="Flag of America design specification">
   </a>
 </div>
